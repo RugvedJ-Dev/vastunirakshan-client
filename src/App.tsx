@@ -1,6 +1,6 @@
 const App = () => {
   return (
-    <div>fresh main</div>
+    <div>fresh for client hero first</div>
   )
 }
 
