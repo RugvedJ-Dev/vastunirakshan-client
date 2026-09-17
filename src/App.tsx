@@ -1,6 +1,10 @@
+import { HeroAiValueProposition } from "./components/hero-ai-value-proposition"
+
 const App = () => {
   return (
-    <div>fresh for client hero first</div>
+    <>
+    <HeroAiValueProposition/>
+    </>
   )
 }
 
